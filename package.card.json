@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "gradientStart": "#a78bfa",  
+    "gradientMid": "#f472b6",    
+    "gradientEnd": "#facc15",    
+    "textPrimary": "#ffffff",    
+    "textSecondary": "#fef3c7",  
+    "linkHover": "#f9a8d4"        
+  },
+  "shadows": {
+    "card": "0 12px 24px rgba(250, 204, 21, 0.2), 0 20px 40px rgba(244, 114, 182, 0.2)",
+    "cardHover": "0 18px 36px rgba(244, 114, 182, 0.4), 0 30px 60px rgba(167, 139, 250, 0.3)"
+  },
+  "animations": {
+    "fadeInUp": "fadeInUp 0.7s ease forwards",
+    "loadingSpin": "spin 1s linear infinite"
+  }
+}
